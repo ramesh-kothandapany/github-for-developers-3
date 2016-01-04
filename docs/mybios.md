@@ -2,3 +2,4 @@
  - *Where you are from* - Chennai
  - *A favorite food* - Rice
  - *A hobby* - Movies
+ - *Favorite color* - Blue

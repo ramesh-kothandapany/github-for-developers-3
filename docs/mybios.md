@@ -3,3 +3,4 @@
  - *A favorite food* - Rice
  - *A hobby* - Movies
  - *Favorite color* - Blue
+ - *Favorite sport* - Cricket
